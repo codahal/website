@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>hi this is my website Ecorfy Jenkins Master1 plus git hooks harsha,jagu516</h1>
+      <h1>hi this is my website Ecorfy Jenkins Master1 plus git hooks harsha</h1>
     </div>
   );
 }
